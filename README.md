@@ -47,8 +47,8 @@
 
 
 
-### Name: R Tharun Rathish
-### Register Number: 212225230284
+### Name: PRANAV KIRTHIK S S
+### Register Number: 212225230212
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
